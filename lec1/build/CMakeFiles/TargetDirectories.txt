@@ -1,0 +1,3 @@
+C:/Users/annpu/OneDrive/Рабочий стол/си/lec1/build/CMakeFiles/Task.dir
+C:/Users/annpu/OneDrive/Рабочий стол/си/lec1/build/CMakeFiles/edit_cache.dir
+C:/Users/annpu/OneDrive/Рабочий стол/си/lec1/build/CMakeFiles/rebuild_cache.dir
